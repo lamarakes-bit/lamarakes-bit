@@ -1,8 +1,20 @@
-## Hi there 👋
-# I am rakesh 
+# Hi 👋 Welcome
 
-**lamarakes-bit/lamarakes-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Rakesh. 
 
+I’m an **educator, full-stack engineer, and content creator** passionate about making programming accessible to everyone. My GitHub is packed with **free, high-quality learning resources** on web development, Python, data analysis, and more.
+
+---
+
+## 🚀 Popular Projects & Impact
+
+| Project                                                                    | GitHub Stars | Notes                           | Traffic / Reach      |
+| -------------------------------------------------------------------------- | ------------ | ------------------------------- | -------------------- |
+| [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 45.6 k      | Step-by-step JS challenge       | ~124K biweekly views |
+| [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)         | 52.3 k      | Beginner to pro Python learning | ~150K biweekly views |
+| [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React)           | 27.2 k      | React fundamentals & projects   | ~78K biweekly views  |
+
+**Millions of developers worldwide** have benefited from these resources, and the combined **biweekly reach of ~352K** demonstrates strong engagement and consistent traffic.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
